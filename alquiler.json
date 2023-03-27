@@ -1,0 +1,10 @@
+[{"Tipo":"Habitación","Distrito":"San Borja","Cuartos":1,"Vacantes":0,"Suites":0,"Area":40,"Valor":1700.0,"Mantenimiento":500.0,"Impuesto":60.0},
+{"Tipo":"Casa","Distrito":"Lurigancho","Cuartos":2,"Vacantes":0,"Suites":1,"Area":100,"Valor":7000.0,"Mantenimiento":null,"Impuesto":null},
+{"Tipo":"Local comercial","Distrito":"Ate","Cuartos":0,"Vacantes":4,"Suites":0,"Area":150,"Valor":5200.0,"Mantenimiento":4020.0,"Impuesto":1111.0},
+{"Tipo":"Departamento","Distrito":"Pachacámac","Cuartos":1,"Vacantes":0,"Suites":0,"Area":15,"Valor":800.0,"Mantenimiento":390.0,"Impuesto":20.0},
+{"Tipo":"Departamento","Distrito":"Ate","Cuartos":1,"Vacantes":0,"Suites":0,"Area":48,"Valor":800.0,"Mantenimiento":230.0,"Impuesto":null},
+{"Tipo":"Departamento","Distrito":"Barranco","Cuartos":3,"Vacantes":1,"Suites":0,"Area":70,"Valor":1200.0,"Mantenimiento":null,"Impuesto":null},
+{"Tipo":"Departamento","Distrito":"Comas","Cuartos":2,"Vacantes":0,"Suites":0,"Area":50,"Valor":1300.0,"Mantenimiento":301.0,"Impuesto":17.0},
+{"Tipo":"Casa en condominio","Distrito":"Ate","Cuartos":5,"Vacantes":4,"Suites":5,"Area":750,"Valor":22000.0,"Mantenimiento":null,"Impuesto":null},
+{"Tipo":"Casa en condominio","Distrito":"El Agustino","Cuartos":2,"Vacantes":2,"Suites":0,"Area":65,"Valor":1000.0,"Mantenimiento":null,"Impuesto":null},
+{"Tipo":"Local comercial","Distrito":"Pachacámac","Cuartos":0,"Vacantes":3,"Suites":0,"Area":695,"Valor":35000.0,"Mantenimiento":19193.0,"Impuesto":3030.0}]

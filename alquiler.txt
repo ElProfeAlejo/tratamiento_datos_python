@@ -1,0 +1,11 @@
+Tipo	Distrito	Cuartos	Vacantes	Suites	Area	Valor	Mantenimiento	Impuesto
+Habitación	San Borja	1	0	0	40	1700	500	60
+Casa	Lurigancho	2	0	1	100	7000		
+Local comercial	Ate	0	4	0	150	5200	4020	1111
+Departamento	Pachacámac	1	0	0	15	800	390	20
+Departamento	Ate	1	0	0	48	800	230	
+Departamento	Barranco	3	1	0	70	1200		
+Departamento	Comas	2	0	0	50	1300	301	17
+Casa en condominio	Ate	5	4	5	750	22000		
+Casa en condominio	El Agustino	2	2	0	65	1000		
+Local comercial	Pachacámac	0	3	0	695	35000	19193	3030
